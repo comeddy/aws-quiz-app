@@ -8,7 +8,7 @@
 
 왼쪽 사이드바에서 **⚡ 번개 아이콘**을 클릭합니다.
 
-![Powers 패널](https://d1wa5znsy892mi.cloudfront.net/images/power.png)
+![Powers 패널](../image/power.png)
 
 ### 2. 카탈로그 탐색
 
