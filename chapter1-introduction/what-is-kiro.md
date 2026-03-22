@@ -1,0 +1,29 @@
+# Kiro란 무엇인가?
+
+> Kiro는 프로토타입에서 프로덕션까지, Spec-Driven Development로 개발을 도와주는 **에이전틱 AI IDE**입니다.
+
+## 주요 특징
+
+### Code OSS 기반
+
+Kiro는 VS Code와 동일한 외관과 사용감을 제공합니다. 기존의 설정과 확장 프로그램을 그대로 가져올 수 있습니다.
+
+### 무료 사용
+
+GitHub, Google, 또는 AWS Builder ID로 로그인하면 됩니다. AWS 계정은 필요하지 않습니다.
+
+### 다중 언어 지원
+
+Python, JavaScript, TypeScript, Java, Go, Rust, C# 등 다양한 언어를 지원합니다.
+
+### 두 가지 자율성 모드
+
+| 모드 | 설명 |
+|------|------|
+| **Autopilot** | AI가 자율적으로 작업을 수행합니다 |
+| **Supervised** | 모든 변경사항을 사용자가 검토합니다 |
+
+---
+
+> **💡 참고**
+**팁**: 처음 사용할 때는 **Supervised 모드**로 시작하여 Kiro가 어떻게 코드를 생성하는지 확인하는 것을 권장합니다.
