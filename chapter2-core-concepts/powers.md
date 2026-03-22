@@ -32,3 +32,5 @@
 | Stripe | 결제 |
 
 > 이 외에도 AWS Aurora, Strands SDK 등 다양한 파트너가 있습니다.
+
+> 자세한 내용은 [공식 문서](https://kiro.dev/docs/powers/)를 참고하세요.
