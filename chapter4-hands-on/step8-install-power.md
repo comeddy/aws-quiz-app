@@ -26,4 +26,4 @@
 | **Postman** | API | API 테스팅, 컬렉션 |
 
 > **💡 참고**
-**시도해보세요**: Netlify Power를 설치한 후 Kiro에게 `"deploy my quiz app"`이라고 요청해보세요.
+**시도해보세요**: Netlify Power를 설치한 후 Kiro에게 `"deploy aws-quiz-app"`이라고 요청해보세요.
