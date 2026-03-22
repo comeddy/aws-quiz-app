@@ -2,6 +2,8 @@
 
 > Kiro에게 프로젝트에 대한 **지속적인 지식**을 제공하는 기능입니다.
 
+![Steering](../image/Steering.png)
+
 ## 세 가지 유형
 
 ### Always On (항상 활성)
