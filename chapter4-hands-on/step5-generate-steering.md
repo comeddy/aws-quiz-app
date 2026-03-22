@@ -10,7 +10,7 @@
 
 ### 2. Steering 섹션 찾기
 
-패널에서 **"Steering"** 섹션을 찾습니다.
+패널에서 "**Steering**" 섹션을 찾습니다.
 
 ![Steering 섹션](https://d1wa5znsy892mi.cloudfront.net/images/step2steeringdocs.png)
 

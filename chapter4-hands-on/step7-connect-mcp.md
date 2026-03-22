@@ -11,7 +11,7 @@
 
 ### 2. "MCP" 검색 및 선택
 
-`MCP`를 입력하고 **"Kiro: Open MCP Configuration"**을 선택합니다.
+`MCP`를 입력하고 "**Kiro: Open MCP Configuration**"을 선택합니다.
 
 ### 3. JSON 설정 붙여넣기
 

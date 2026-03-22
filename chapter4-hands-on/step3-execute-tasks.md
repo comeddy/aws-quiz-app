@@ -6,7 +6,7 @@
 
 ### 1. 태스크 목록 열기
 
-스펙에서 **"3 Task list"** 탭을 클릭합니다. 또는 Explorer에서 `.kiro/specs/` 아래의 `tasks.md` 파일을 클릭합니다.
+스펙에서 "**3 Task list**" 탭을 클릭합니다. 또는 Explorer에서 `.kiro/specs/` 아래의 `tasks.md` 파일을 클릭합니다.
 
 ![태스크 목록](https://d1wa5znsy892mi.cloudfront.net/images/taskslist.png)
 
@@ -18,7 +18,7 @@ Kiro가 각 태스크를 순차적으로 실행하며 코드를 작성합니다.
 
 ### 3. 퀴즈 앱 미리보기
 
-`index.html`을 우클릭 → **"Open with Live Server"**를 선택하거나, 더블클릭하여 브라우저에서 엽니다.
+`index.html`을 우클릭 → "**Open with Live Server**"를 선택하거나, 더블클릭하여 브라우저에서 엽니다.
 
 > **💡 참고**
 **Supervised 모드**에서는 Kiro가 각 변경사항을 적용하기 전에 보여줍니다. **Autopilot 모드**에서는 바로 적용됩니다.
