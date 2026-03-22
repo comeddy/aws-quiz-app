@@ -33,4 +33,4 @@
 ```
 
 > **💡 참고**
-**자동 생성 기능**: Kiro Panel의 Steering 섹션에서 "Generate Steering Docs" 버튼을 클릭하면 프로젝트를 분석하여 자동으로 스티어링 문서를 생성합니다.
+**자동 생성 기능**: Kiro Panel의 Steering 섹션에서 "Generate Steering Docs" 버튼을 클릭하면 프로젝트를 분석하여 자동으로 스티어링 문서를 생성합니다. 자세한 내용은 [공식 문서](https://kiro.dev/docs/steering/)를 참고하세요.
