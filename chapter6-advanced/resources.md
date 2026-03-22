@@ -13,11 +13,11 @@
 
 | 리소스 | 설명 |
 |--------|------|
-| **SDD with Kiro** | Spec-Driven Development 기초 |
-| **Hands-On Lab** | Kiro를 사용한 구조화된 AI 코딩 |
-| **Cloud Quest** | 롤플레잉 게임으로 클라우드 배우기 |
-| **SimuLearn** | Cloud Practitioner 시뮬레이션 학습 |
-| **Immersive Learning** | 모든 AWS 몰입형 교육 경험 |
+| [**SDD with Kiro**](https://skillbuilder.aws/learn/3GD2CGPENW/specdriven-development-with-kiro/T2YSHSXE5T) | Spec-Driven Development 기초 |
+| [**Hands-On Lab**](https://skillbuilder.aws/learn/J74A9BP8SM/lab--structured-approach-to-ai-coding-with-specdriven-development-on-kiro/VDK8N2DMKC) | Kiro를 사용한 구조화된 AI 코딩 |
+| [**Cloud Quest**](https://skillbuilder.aws/learn/FU5WCYVGKY/aws-cloud-quest-cloud-practitioner/JF9TKU68GT) | 롤플레잉 게임으로 클라우드 배우기 |
+| [**SimuLearn**](https://skillbuilder.aws/learning-plan/EKHCUEWUUC/aws-simulearn-cloud-practitioner/1UQVR262ZB) | Cloud Practitioner 시뮬레이션 학습 |
+| [**Immersive Learning**](https://skillbuilder.aws/search?ctldoc-catalog-0=field-learning_styles~Immersive) | 모든 AWS 몰입형 교육 경험 |
 
 ## 시작하기
 
