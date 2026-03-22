@@ -8,9 +8,13 @@
 
 스펙에서 **"3 Task list"** 탭을 클릭합니다. 또는 Explorer에서 `.kiro/specs/` 아래의 `tasks.md` 파일을 클릭합니다.
 
+![태스크 목록](https://d1wa5znsy892mi.cloudfront.net/images/taskslist.png)
+
 ### 2. "Run all tasks" 클릭
 
 Kiro가 각 태스크를 순차적으로 실행하며 코드를 작성합니다. Explorer에 파일이 나타나는 것을 확인하세요.
+
+![태스크 실행 중](https://d1wa5znsy892mi.cloudfront.net/images/step5.png)
 
 ### 3. 퀴즈 앱 미리보기
 
