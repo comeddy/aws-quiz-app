@@ -8,6 +8,8 @@
 
 왼쪽 사이드바에서 **⚡ 번개 아이콘**을 클릭합니다.
 
+![Powers 패널](https://d1wa5znsy892mi.cloudfront.net/images/power.png)
+
 ### 2. 카탈로그 탐색
 
 사용 가능한 Power를 스크롤하면서 각 Power의 기능과 활성화 키워드를 확인합니다.
