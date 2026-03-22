@@ -1,6 +1,6 @@
 # Kiro 워크샵: AI와 함께 제로에서 빌딩까지
 
-> **60분 워크샵** — Spec-Driven Development, Steering, Hooks, Powers를 배우고 Kiro의 AI 에이전트로 실제 프로젝트를 구축합니다.
+> **3시간 워크샵** — Spec-Driven Development, Steering, Hooks, Powers를 배우고 Kiro의 AI 에이전트로 실제 프로젝트를 구축합니다.
 
 ## 워크샵 소개
 
