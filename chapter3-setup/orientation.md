@@ -4,8 +4,6 @@
 
 ## Kiro IDE 주요 영역
 
-![Kiro IDE 인터페이스](https://d1wa5znsy892mi.cloudfront.net/images/kirointerface.png)
-
 ### 1. Kiro Panel
 
 왼쪽 사이드바에서 접근할 수 있으며, **Specs**, **Steering**, **Hooks** 관리를 담당합니다.

@@ -22,7 +22,5 @@ GitHub, Google, 또는 AWS Builder ID로 인증합니다.
 2. Kiro에서 **File → Open Folder**를 선택합니다
 3. 생성한 폴더를 선택합니다
 
-![File → Open Folder](https://d1wa5znsy892mi.cloudfront.net/images/step1openfolder.png)
-
 > **💡 참고**
 **팁**: "Yes, I trust the authors" 프롬프트가 나타나면 클릭하세요. 폴더를 Kiro 창으로 드래그할 수도 있습니다.

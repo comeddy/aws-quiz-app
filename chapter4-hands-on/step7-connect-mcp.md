@@ -42,7 +42,5 @@
 
 `⌘ + S`로 저장하면 Kiro가 자동으로 서버를 감지하고 연결합니다.
 
-![MCP 서버 연결 완료](https://d1wa5znsy892mi.cloudfront.net/images/step3connecttoMCP.png)
-
 > **✅ 핵심**
 이제 Kiro에게 AWS 관련 질문을 하면 실제 AWS 문서에 기반한 답변을 받을 수 있습니다.

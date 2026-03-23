@@ -12,13 +12,9 @@
 
 패널에서 "**Steering**" 섹션을 찾습니다.
 
-![Steering 섹션](https://d1wa5znsy892mi.cloudfront.net/images/step2steeringdocs.png)
-
 ### 3. "Generate" 클릭
 
 Kiro가 프로젝트를 스캔하여 `.kiro/steering/` 폴더에 스티어링 문서를 생성합니다.
-
-![생성된 Steering 문서](https://d1wa5znsy892mi.cloudfront.net/images/step2a-steeringdocs.png)
 
 > **💡 참고**
 빈 프로젝트의 경우, Kiro는 기본 설정 문서를 생성합니다. 지금 단계에서는 이것으로 충분합니다.
