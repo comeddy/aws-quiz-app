@@ -8,6 +8,8 @@
 
 Kiro Panel의 **Specs** 섹션에서 **+** 버튼을 클릭합니다.
 
+![New Spec 생성](../image/step2_createanewspecdoc.png)
+
 ### 2. 프롬프트 입력
 
 아래와 같은 프롬프트를 입력합니다:
@@ -34,6 +36,8 @@ Kiro가 순서대로 생성합니다:
 1. **Requirements** (요구사항) — 검토 후 "Move to design phase" 클릭
 2. **Design** (설계) — 검토 후 다음 단계로 진행
 3. **Task list** (태스크 목록) — 실행 가능한 작업 목록 생성
+
+![Spec 문서 구조](../image/Step2b_newspecdoc.png)
 
 > **✅ 핵심**
 각 단계를 검토하면서 필요한 수정사항을 요청할 수 있습니다. 스펙은 살아있는 문서이므로 언제든 업데이트할 수 있습니다.
