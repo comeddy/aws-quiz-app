@@ -15,15 +15,13 @@ Kiro Panel의 **Specs** 섹션에서 **+** 버튼을 클릭합니다.
 아래와 같은 프롬프트를 입력합니다:
 
 ```
-Build an AWS services quiz app as a single index.html file.
-Use Tailwind CSS loaded from the CDN (script tag, not npm).
-All JavaScript must be inline in the HTML file — no npm,
-no packages, no build step, no separate JS files.
-5 multiple-choice questions about AWS services
-(S3, Lambda, EC2, DynamoDB, CloudFront). Dark theme,
-progress bar, score tracking, and a results screen
-with pass/fail. Must work by just opening the HTML
-file in a browser.
+AWS 서비스 퀴즈 앱을 단일 index.html 파일로 만들어주세요.
+Tailwind CSS는 CDN 스크립트 태그로 로드하고,
+모든 JavaScript는 HTML 파일 안에 인라인으로 작성해주세요.
+npm이나 빌드 과정 없이, S3, Lambda, EC2, DynamoDB,
+CloudFront에 대한 5개의 객관식 문제를 포함하세요.
+다크 테마, 진행률 표시줄, 점수 추적,
+합격/불합격 결과 화면을 구현해주세요.
 ```
 
 > **한국어 프롬프트도 가능합니다(다음복사입력):**
