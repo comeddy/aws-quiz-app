@@ -18,6 +18,7 @@
 ## 3부: 설치 & 설정 <a href="#setup" id="setup"></a>
 
 * [사전 준비 체크리스트](chapter3-setup/pre-workshop-checklist.md)
+* [Kiro IDE 인증](chapter3-setup/authentication.md)
 * [인터페이스 둘러보기](chapter3-setup/orientation.md)
 
 ## 4부: 실습 - AWS 퀴즈 앱 만들기 <a href="#hands-on" id="hands-on"></a>
