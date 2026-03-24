@@ -13,6 +13,8 @@
 
 `MCP`를 입력하고 "**Kiro: Open MCP Configuration**"을 선택합니다.
 
+![MCP 검색](../image/step7.png)
+
 ### 3. JSON 설정 붙여넣기
 
 파일 내용을 아래 JSON으로 교체합니다:
